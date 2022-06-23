@@ -1,7 +1,8 @@
 
+
 body {
    
-    background-color:  rgba(65, 130, 221, 0.333) ;
+    background-color:  rgba(11, 38, 77, 0.333) ;
 }
 
 
@@ -18,7 +19,7 @@ h1 {
     position:fixed;
     margin-right:  100px;
     margin-left: 100px;
-    color: azure;
+    color: rgb(29, 3, 123);
     
 }
 
@@ -34,10 +35,14 @@ h1 {
     position: absolute;
     top:0;
 
+}
+
+
 
 #pix {
    width: 100px;
    margin-left: 200px;
+   
   
 }
 
@@ -58,7 +63,7 @@ a {
 .copyright {
     color:#EAF6F6;
     font-size: 0.75rem;
-    padding:20px 0;
+    padding:30px 0;
 }
 
 
@@ -66,8 +71,9 @@ a {
 
 .bottom-container {
     background-color: #66BFBF;
-    padding: 50px 0 20px;
+    padding: 50px 0 30px;
 
 }
+
 
 
